@@ -1,11 +1,11 @@
 {
-  "name": "module",
-  "title": "New Module",
-  "description": "",
+  "name": "f5ecp",
+  "title": "Foundry VTT 5e character planner.",
+  "description": "A module to help create characters",
   "version": "0.0.1",
-  "minimumCoreVersion": "0.6.2",
-  "compatibleCoreVersion": "0.7.2",
-  "author": "Cody Swendrowski <cody@swendrowski.us>",
+  "minimumCoreVersion": "0.7.5",
+  "compatibleCoreVersion": "0.7.5",
+  "author": "Exodil",
   "dependencies": [
 
   ],
@@ -25,7 +25,7 @@
       "path": "languages/en.json"
     }
   ],
-  "url": "https://github.com/cswendrowski/FoundryVTT-module",
-  "manifest": "https://github.com/cswendrowski/FoundryVTT-module/releases/download/latest/module.json",
-  "download": "https://github.com/cswendrowski/FoundryVTT-module/releases/download/0.0.1/module.zip"
+  "url": "https://github.com/Exodil/FoundryCharacterPlanner",
+  "manifest": "https://github.com/Exodil/FoundryCharacterPlanner/releases/download/latest/module.json",
+  "download": "https://github.com/Exodil/FoundryCharacterPlanner/releases/download/0.0.1/module.zip"
 }
