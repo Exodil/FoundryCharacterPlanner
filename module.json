@@ -11,7 +11,7 @@
     "/scripts/module.js"
   ],
   "scripts": [
-    "/scripts/lib/lib.js"
+    "/scripts/lib/charPlannerWindow.js"
   ],
   "styles": [
     "/styles/module.css"
