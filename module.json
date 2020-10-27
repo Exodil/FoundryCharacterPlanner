@@ -1,6 +1,6 @@
 {
-  "name": "f5ecp",
-  "title": "Foundry VTT 5e character planner.",
+  "name": "char-planner",
+  "title": "Character planner for 5e",
   "description": "A module to help create characters",
   "version": "0.1",
   "minimumCoreVersion": "0.7.5",
